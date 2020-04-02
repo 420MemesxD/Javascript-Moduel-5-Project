@@ -19,7 +19,7 @@
 			"name": "Downtown New York Apartment",
 			"price": 50,
 			"rating": "4/10 stars",
-			"location": "Manhattan, Ney York",
+			"location": "Manhattan, New York",
 			"rooms": "2",
 			"availability": "is not",
 			"features": [
@@ -40,7 +40,6 @@
 				"airconditioning, ",
 				"one bed."
 			],
-			"reduced rate": 20
 		},
 		{
 			"name": "Tokyo Japan House",
@@ -57,8 +56,9 @@
 				"full kitchen and, ",
 				"pool table."
 			],
-			"super rating": "4/5 stars"
 
 		}
 	]
 }
+
+
