@@ -1,0 +1,64 @@
+{
+	"Vacations": [{
+			"name": "Hawaii beach house",
+			"price": 200,
+			"rating": "7/10 stars",
+			"location": "Hawaii",
+			"rooms": "4",
+			"availability": "is",
+			"features": [
+				"beach side view",
+				"jetbathtub",
+				"free wifi",
+				"airconditioning",
+				"two king size beds",
+				"full kitchen and surf boards."
+			]
+		},
+		{
+			"name": "Downtown New York Apartment",
+			"price": 50,
+			"rating": "4/10 stars",
+			"location": "Manhattan, Ney York",
+			"rooms": "2",
+			"availability": "is not",
+			"features": [
+				"Heat and airconditioning",
+				"wifi at extra cost",
+				"public pool",
+				"one king sized bed"
+			]
+		},
+		{
+			"name": "Wuhan Cina appartment",
+			"price": 20,
+			"rating": "2/10 stars",
+			"location": "Wuhan China",
+			"rooms": "2",
+			"availability": "is",
+			"features": [
+				"airconditioning",
+				"one bed"
+			],
+			"reduced rate": 20
+		},
+		{
+			"name": "Tokyo Japan House",
+			"price": 100,
+			"rating": "8/10 stars",
+			"location": "Tokyo, Japan",
+			"rooms": "6",
+			"availability": "is",
+			"features": [
+				"heat and airconditioning",
+				"free wifi",
+				"Private pool",
+				"four king sized beds",
+				"full kitchen and ",
+				"pool table"
+			],
+			"super rating": "4/5 stars"
+
+		}
+	]
+}
