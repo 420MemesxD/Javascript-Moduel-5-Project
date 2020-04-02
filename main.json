@@ -1,17 +1,17 @@
 {
 	"Vacations": [{
-			"name": "Hawaii beach house",
+			"name": "Hawaii Beach House",
 			"price": 200,
 			"rating": "7/10 stars",
 			"location": "Hawaii",
 			"rooms": "4",
 			"availability": "is",
 			"features": [
-				"beach side view",
-				"jetbathtub",
-				"free wifi",
-				"airconditioning",
-				"two king size beds",
+				"beach side view, ",
+				"jetbathtub, ",
+				"free wifi, ",
+				"airconditioning, ",
+				"two king size beds, ",
 				"full kitchen and surf boards."
 			]
 		},
@@ -23,22 +23,22 @@
 			"rooms": "2",
 			"availability": "is not",
 			"features": [
-				"Heat and airconditioning",
-				"wifi at extra cost",
-				"public pool",
-				"one king sized bed"
+				"Heat and airconditioning, ",
+				"wifi at extra cost, ",
+				"public pool, ",
+				"one king sized bed."
 			]
 		},
 		{
-			"name": "Wuhan Cina appartment",
+			"name": "Wuhan China Appartment",
 			"price": 20,
 			"rating": "2/10 stars",
 			"location": "Wuhan China",
 			"rooms": "2",
 			"availability": "is",
 			"features": [
-				"airconditioning",
-				"one bed"
+				"airconditioning, ",
+				"one bed."
 			],
 			"reduced rate": 20
 		},
@@ -50,12 +50,12 @@
 			"rooms": "6",
 			"availability": "is",
 			"features": [
-				"heat and airconditioning",
-				"free wifi",
-				"Private pool",
-				"four king sized beds",
-				"full kitchen and ",
-				"pool table"
+				"heat and airconditioning, ",
+				"free wifi, ",
+				"Private pool, ",
+				"four king sized beds, ",
+				"full kitchen and, ",
+				"pool table."
 			],
 			"super rating": "4/5 stars"
 
